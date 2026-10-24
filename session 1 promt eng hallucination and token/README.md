@@ -10,7 +10,8 @@
 - **Observation:** The AI hallucinated by inventing a completely fake language and making up false history.
 
 ## 3. Tokenization Inputs Tested
+
 - `recursion`
-- `factorial(5);`[cite: 1]
-- `for(int i=0;i<n;i++){ printf("%d",i); }`[cite: 1]
-- `रिकर्शन एक फंक्शन है जो खुद को कॉल करता है`[cite: 1]
+- `factorial(5);`
+- `for(int i=0;i<n;i++){ printf("%d",i); }`
+- `रिकर्शन एक फंक्शन है जो खुद को कॉल करता है`
